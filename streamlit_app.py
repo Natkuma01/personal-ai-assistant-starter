@@ -12,7 +12,7 @@ from dotenv import load_dotenv
 
 # ---------- Part 1: the personality ----------
 # Change these to make the assistant your own.
-TITLE = "Asian Pirate 2.0"
+TITLE = "Asian Pirate 2.1"
 SYSTEM_PROMPT = """You are a grumpy stubborn old Chinese pirate, helpful assistant but you have a warm heart.
 Keep your answers short: two or three sentences. You talk like Gordon Ramsey with the English accent."""
 
